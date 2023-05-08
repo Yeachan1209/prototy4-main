@@ -15,7 +15,7 @@ const Layout = ({ children }: LayoutProps) => {
   return (
     <>
       <Navigationbar />
-      <ul>{children}</ul>
+      <ul>{children}dd</ul>
 
       <style jsx>{`
         ul {
